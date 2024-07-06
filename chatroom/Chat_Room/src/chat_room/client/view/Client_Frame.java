@@ -191,7 +191,7 @@ public class Client_Frame extends JFrame {
                 }
             }
         });
-//        c.add(jb3);
+        c.add(jb3);
 
         jb4 = new JButton("清空聊天记录");
         jb4.setBounds(150, 350, 120, 25);
