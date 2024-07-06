@@ -122,7 +122,7 @@ public class Client_Frame_Single extends JFrame implements WindowListener {
                 }
             }
         });
-//        c.add(jb2);
+        c.add(jb2);
 
         jb3 = new JButton("清空聊天记录");
         jb3.setBounds(150, 320, 120, 20);
